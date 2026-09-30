@@ -39,7 +39,7 @@ function Home() {
             </button>
 
             <a
-              href="/Santhosh_Kumar_Resume.pdf"
+              href="/Santhosh_Kumar_R.pdf"
               download
             >
               Download Resume
